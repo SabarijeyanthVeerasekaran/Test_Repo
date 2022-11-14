@@ -1,7 +1,7 @@
 package com.twosum;
 
 import java.util.HashMap;
-
+//Code to solve twosum problem
 public class TwoSum {
 
 	public static void main(String[] args) {
