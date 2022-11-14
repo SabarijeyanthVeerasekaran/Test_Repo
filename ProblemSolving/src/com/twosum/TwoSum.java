@@ -1,7 +1,7 @@
 package com.twosum;
 
 import java.util.HashMap;
-//Code to solve twosum problem
+//Code to solve twosum problem Simulate merge conflict Eclipse
 public class TwoSum {
 
 	public static void main(String[] args) {
